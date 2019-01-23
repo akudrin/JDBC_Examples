@@ -1,3 +1,4 @@
+package com.akudrin.jdbc.examples;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
